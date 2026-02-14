@@ -4,4 +4,5 @@ project(oleg_pe4eneg_2)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(oleg_pe4eneg_2 main.cpp
-        hello.c)
+        hello.c
+        named_hello.c)
