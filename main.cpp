@@ -27,11 +27,6 @@ int main() {
     int number1 = 999;
     int number2 = 900;
     bool zhbul = false;
-    //string s1 = 'Z';
-    //string s2 = 'O';
-    //string s3 = 'V';
-
-    //string svo = s1 + s2 + s3;
     float price = 19.9;
     float price2 = 10.6;
     double price3 = 1000000.111899999999999999999;
