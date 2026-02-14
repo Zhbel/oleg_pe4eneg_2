@@ -8,4 +8,5 @@ add_executable(oleg_pe4eneg_2 main.cpp
         named_hello.c
         arithmetic_test.c
         who_is_max.c
-        important_function.c)
+        important_function.c
+        float_compare.c)
